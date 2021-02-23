@@ -28,6 +28,7 @@
     },
     "android": {
       "package": "com.mju25.fathory"
-    }
+    },
+    "description": ""
   }
 }
